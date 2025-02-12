@@ -1,7 +1,7 @@
 
 # Ephrem's Portfolio
 
-Hi there! 👋 I'm **Ephrem**, a **Software Engineering student** and passionate **Front-End Developer** with a focus on creating responsive, user-centered web applications. 
+Hi there! 👋 I'm **Ephrem**, a **Software Engineering student** and **Front-End Developer** with a focus on creating responsive, user-centered web applications. 
 
 ## About Me
 
