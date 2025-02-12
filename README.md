@@ -26,7 +26,7 @@ A personal portfolio website built with **React** to showcase my skills, project
 
 Feel free to get in touch with me through the contact page or via the links below:
 
-- [GitHub](https://github.com/EphremM)
+- [GitHub](https://github.com/EpphremM)
 - [Gmail](mailto:mandefroephrem48@gamil.com)
 
 ![](https://github-readme-stats.vercel.app/api?username=EpphremM&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
