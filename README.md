@@ -7,7 +7,7 @@ I'm **Ephrem**, a **Software Engineering student** and **Front-End Developer** w
 
 With 3+ years of experience, I specialize in **HTML**, **CSS**, **JavaScript**, and **React**. I also have strong skills in **Node.js**, **TypeScript**, and **Telegraf.js** for backend development and building Telegram bots. My goal is to always create  **functional** websites and applications that provide an excellent user experience.
 
-*Skills & Technologies *
+**Skills & Technologies **
 
 - **Frontend:** HTML, CSS, JavaScript, React, Nuxt.js
 - **Backend:** Node.js, TypeScript, Express, Socket.io
