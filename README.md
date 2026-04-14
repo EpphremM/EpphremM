@@ -75,16 +75,6 @@
 </p>
 
 
-### ⏳ Coding Activity:
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
-
-<div align=center>
-
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=EpphremM&layout=compact&theme=tokyonight&langs_count=8" height="235" />
-</div> 
-
-
 <picture>
   <source  src="https://raw.githubusercontent.com/EpphremM/EpphremM/output/github-snake-dark.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/EpphremM/EpphremM/output/github-snake.svg" />
