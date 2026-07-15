@@ -13,7 +13,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
-Software Engineer with 3+ years experience in Go, Python, TypeScript. Product mindset building scalable solutions. BSc in Software Engineering (CGPA: 3.60) from AASTU.
+Software Engineer with 3+ years experience in Go, Python, TypeScript. Product mindset building scalable solutions. BSc in Software EngineerinG:from AASTU.
 
 - Currently: Software Engineer @ Zion AI & Lead Developer @ View Hoteling
 - Location: Addis Ababa, Ethiopia
