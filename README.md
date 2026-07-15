@@ -41,10 +41,6 @@ Software Engineer with 3+ years experience in Go, Python, TypeScript. Product mi
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-## Projects
-
----
-
 ## Stats
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
