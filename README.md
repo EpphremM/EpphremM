@@ -41,31 +41,7 @@ Software Engineer with 3+ years experience in Go, Python, TypeScript. Product mi
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
----
-
-## Experience
-
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
-
-**Software Engineer @ Zion** (Dec 2025 - Present)
-- Microservices handling 50+ events/sec, third-party API integration
-
-**Backend Engineer @ Satev** (Aug 2025 - Nov 2025)
-- QR-code payment system, 5,000+ monthly transactions
-
-**Software Engineer @ Softship** (Feb 2024 - Jul 2025)
-- Marketplace with 1,000+ transactions, 40% search optimization
-
----
-
 ## Projects
-
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
-
-- **University ERP** - Java, Spring Boot, React, PostgreSQL
-- **Multiplayer Game** - Node.js, Socket.io, 5,000 concurrent players
-- **Plant Disease Detection** - TensorFlow, 90% accuracy on 50k+ images
-- **Audio Melody ID** - PyTorch, 87% accuracy on 500+ Ethiopian songs
 
 ---
 
